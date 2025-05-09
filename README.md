@@ -1,19 +1,57 @@
-<h1 align="center">Hi 👋, I'm Tomas</h1>
-<h3 align="center">A passionate Software & AI Developer from Buenos Aires, Argentina</h3>
+# 👋 Hi, I’m Tomi Ruiz
 
-- 🔭 I’m currently working on [SitePilot](https://github.com/tomas95-lab/ERP_demo)
+> **Traditional coder, future thinker**  
+> I respect classic craftsmanship and get excited about what’s next.
 
-- 👨‍💻 All of my projects are available at [https://portfolio-dusky-two-79.vercel.app/](https://portfolio-dusky-two-79.vercel.app/)
+---
 
-- 💬 Ask me about **Full-stack (Symfony, Node.js), AI model evaluation, DevOps, databases**
+## 🚀 About Me
 
-- 📫 How to reach me **tomasruiz.dev@gmail.com**
+- 💼 **AI trainner** at Scale AI, optimizing and ensuring top-notch AI outputs.  
+- 🤖 Hands-on in training and evaluating NLP & ML models.  
+- 🎓 Studying **Computer Engineering** at UBA (2023–2028).  
+- 💡 Passionate about clean, scalable solutions, nodding to proven practices.
 
-- ⚡ Fun fact **I code better after a mate ☕**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 💼 Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Scale AI (Remote)  
+**Team Lead** (Feb 2025 – Present)  
+- Lead a review team, improving AI output consistency and efficiency.  
+- Designed process tweaks that boosted accuracy across pipelines.
+
+**AI Model Trainer & Quality Analyst** (Mar 2024 – Feb 2025)  
+- Annotated and evaluated AI responses for large-scale NLP projects.  
+- Tuned prompts and used Python/SQL to validate workflows.
+
+### Ferraro Camacho (Buenos Aires)  
+**Full-Stack Developer** (Apr 2023 – Mar 2024)  
+- Built an ANCAP system in Uruguay with Symfony, Bootstrap & JS.  
+- Cut data processing times by 30%.
+
+### Freelance (Remote)  
+**Full-Stack Developer** (2019 – Apr 2023)  
+- Crafted intuitive web UIs with JavaScript, jQuery & Bootstrap.  
+- Delivered Figma prototypes and liaised directly with clients.
+
+---
+
+## 🛠️ Tech Stack
+
+| Languages              | Frameworks & Libraries        | Tools & Platforms       |
+| ---------------------- | ----------------------------- | ----------------------- |
+| JavaScript, Python, PHP, SQL/MySQL | React, Node.js, Symfony, Astro, Twig | Git, HTML5, CSS3, Tailwind, Figma |
+
+---
+
+
+## 📫 Let’s Connect
+
+- ✉️ tomasruiz.dev@gmail.com  
+- 🌍 [tomasruiz.dev](https://tomasruiz.dev)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tomas-joaquin-ruiz)
+
+---
+
+> **“The best code honors its roots while embracing tomorrow.”**  
