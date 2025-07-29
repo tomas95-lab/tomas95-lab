@@ -49,7 +49,7 @@
 ## 📫 Let’s Connect
 
 - ✉️ tomasruiz.dev@gmail.com  
-- 🌍 [tomasruizDev](https://portfolio-dusky-two-79.vercel.app/) 
+- 🌍 [tomasruiz.dev](https://portfolio-dusky-two-79.vercel.app/) 
 - 🔗 [LinkedIn]([https://www.linkedin.com/in/tomas-joaquin-ruiz](https://www.linkedin.com/in/tom%C3%A1s-ruiz-191752227))
 
 ---
